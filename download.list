@@ -1,0 +1,91 @@
+#DeepLearning
+# --- 关键字匹配 (宽泛匹配) ---
+DOMAIN-KEYWORD,huggingface
+DOMAIN-KEYWORD,torch
+DOMAIN-KEYWORD,tensorflow
+DOMAIN-KEYWORD,keras
+DOMAIN-KEYWORD,nvidia
+DOMAIN-KEYWORD,cuda
+DOMAIN-KEYWORD,cudnn
+DOMAIN-KEYWORD,civitai
+DOMAIN-KEYWORD,wandb
+DOMAIN-KEYWORD,kaggle
+DOMAIN-KEYWORD,arxiv
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anaconda
+DOMAIN-KEYWORD,miniconda
+
+# --- 模型与数据集托管 (Model & Datasets) ---
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.tech
+# HuggingFace LFS (大文件存储，模型权重通常从这里下载)
+DOMAIN-SUFFIX,cdn-lfs.huggingface.co
+DOMAIN-SUFFIX,civitai.com
+DOMAIN-SUFFIX,civitai.work
+DOMAIN-SUFFIX,models.roboflow.com
+
+# --- Python 包管理 (Pip / Pypi) ---
+# pypi.org 是索引，pythonhosted.org 才是真正下载 whl 文件的地方
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.python.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,files.pythonhosted.org
+
+# --- 深度学习框架 (Frameworks) ---
+DOMAIN-SUFFIX,pytorch.org
+DOMAIN-SUFFIX,download.pytorch.org
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tensorboard.dev
+DOMAIN-SUFFIX,keras.io
+DOMAIN-SUFFIX,fast.ai
+DOMAIN-SUFFIX,jax.readthedocs.io
+
+# --- 环境管理 (Conda / Anaconda) ---
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,repo.anaconda.com
+DOMAIN-SUFFIX,conda.io
+DOMAIN-SUFFIX,conda.anaconda.org
+
+# --- 硬件与容器 (NVIDIA / Docker) ---
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,developer.nvidia.com
+DOMAIN-SUFFIX,developer.download.nvidia.com
+DOMAIN-SUFFIX,ngc.nvidia.com
+DOMAIN-SUFFIX,nvcr.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,hub.docker.com
+
+# --- 竞赛与实验追踪 (Kaggle / WandB) ---
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,wandb.ai
+DOMAIN-SUFFIX,wandb.com
+DOMAIN-SUFFIX,weightsandbiases.com
+
+# --- 论文与代码 (Papers & Code) ---
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,paperswithcode.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,git-lfs.github.com
+
+# --- 云端计算 (Colab / Jupyter) ---
+DOMAIN-SUFFIX,colab.research.google.com
+DOMAIN-SUFFIX,jupyter.org
+
+# --- 常用精确域名补充 ---
+DOMAIN,huggingface.co
+DOMAIN,cdn-lfs.huggingface.co
+DOMAIN,pypi.org
+DOMAIN,files.pythonhosted.org
+DOMAIN,download.pytorch.org
+DOMAIN,civitai.com
+DOMAIN,wandb.ai
+DOMAIN,github.com
