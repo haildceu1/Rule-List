@@ -15,6 +15,11 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anaconda
 DOMAIN-KEYWORD,miniconda
 
+#NexusMods
+DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,staticdelivery.nexusmods.com
+DOMAIN-SUFFIX,files.nexus-cdn.com
+
 # --- 模型与数据集托管 (Model & Datasets) ---
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
